@@ -1,3 +1,4 @@
 // commands
 - npm install
-- npm run devcode .
+- npm run devcode 
+- npm i values.js
